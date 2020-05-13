@@ -1,0 +1,12 @@
+Astoria(Queens), Blissville(Queens), Civic Center(Manhattan) are some of the best neighborhoods for indian cuisine.
+Manhattan have potential Indian Resturant Market
+Staten Island ranks last in average rating of Indian Resturants.
+Manhattan is the best place to stay if you prefer Indian Cuisine.
+Limitations
+The ranking is purely on basis of rating of resturants
+The accuracy of data depends purely depends on the data provided by FourSquare
+
+### Limitations
+
+The ranking is purely on basis of rating of resturants
+The accuracy of data depends purely depends on the data provided by FourSquare
